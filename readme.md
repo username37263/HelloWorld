@@ -4,4 +4,4 @@ First pull request
 
 Commit via git cli.
 
-Commit via '".sh Script"'
+Commit via `.sh Script`
